@@ -1,12 +1,11 @@
 # Mini-calc
-A Python-based command-line calculator that performs basic and advanced arithmetic operations with history tracking and continuous calculations.
 
 📌 Mini Calculator (Python CLI Project)
 
 A Python-based command-line calculator that performs basic and advanced arithmetic operations with history tracking and continuous calculations.
 
 🚀 Features
-➕ Addition, ➖ Subtraction, ✖️ Multiplication, ➗ Division
+➕ Addition, ➖ Subtraction, ✖️ Multiplication, ➗ Division        
 📊 Modulo operation
 ⚡ Power calculation
 √ Square root support
